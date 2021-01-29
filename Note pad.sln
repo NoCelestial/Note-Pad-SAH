@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Note pad", "Note pad\Note pad.csproj", "{89BAF13F-C2F3-4166-B9F3-E12868E37FBB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{689C8820-AE0D-4E3F-B97F-0E5FBFC17EA4}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{E729F059-12D4-455F-A2A4-FDA8DD25E08A}") = "Setup1", "Setup1\Setup1.isproj", "{4B852FDC-D972-4BE6-93DC-E75CABB85746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89BAF13F-C2F3-4166-B9F3-E12868E37FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BAF13F-C2F3-4166-B9F3-E12868E37FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BAF13F-C2F3-4166-B9F3-E12868E37FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BAF13F-C2F3-4166-B9F3-E12868E37FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B852FDC-D972-4BE6-93DC-E75CABB85746}.Debug|Any CPU.ActiveCfg = Debug
+		{4B852FDC-D972-4BE6-93DC-E75CABB85746}.Debug|Any CPU.Build.0 = Debug
+		{4B852FDC-D972-4BE6-93DC-E75CABB85746}.Release|Any CPU.ActiveCfg = Release
+		{4B852FDC-D972-4BE6-93DC-E75CABB85746}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAAB9AD2-4B01-4B2B-AB0D-F1457C5FA4C8}
+	EndGlobalSection
+EndGlobal

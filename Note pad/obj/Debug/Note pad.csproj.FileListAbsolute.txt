@@ -1,0 +1,13 @@
+F:\visual projeckt\Note pad\Note pad\bin\Debug\Note pad.exe.config
+F:\visual projeckt\Note pad\Note pad\bin\Debug\Note pad.exe
+F:\visual projeckt\Note pad\Note pad\bin\Debug\Note pad.pdb
+F:\visual projeckt\Note pad\Note pad\obj\Debug\Note_pad.Form1.resources
+F:\visual projeckt\Note pad\Note pad\obj\Debug\Note_pad.Properties.Resources.resources
+F:\visual projeckt\Note pad\Note pad\obj\Debug\Note pad.csproj.GenerateResource.cache
+F:\visual projeckt\Note pad\Note pad\obj\Debug\Note pad.csproj.CoreCompileInputs.cache
+F:\visual projeckt\Note pad\Note pad\obj\Debug\Note pad.exe
+F:\visual projeckt\Note pad\Note pad\obj\Debug\Note pad.pdb
+F:\visual projeckt\Note pad\Note pad\obj\Debug\Note pad.csprojAssemblyReference.cache
+F:\visual projeckt\Note pad\Note pad\obj\Debug\Note_pad.frmfind.resources
+F:\visual projeckt\Note pad\Note pad\obj\Debug\Note_pad.AboutBox1.resources
+F:\visual projeckt\Note pad\Note pad\obj\Debug\Note_pad.frmgoto.resources

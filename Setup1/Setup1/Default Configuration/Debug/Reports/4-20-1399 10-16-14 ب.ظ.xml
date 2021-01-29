@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Program Files (x86)\InstallShield\2019\Support\0409\buildreport.xsl"?>
+<BuildReport ProductName="Note Pad SAH" ProductVersion="1.00.0000" Built="4-20-1399 10-16-14 ب.ظ" Config="Default Configuration" Media="Debug" Uncompressed="0.42 MB">
+  <Features>
+    <Feature Title="##IDS_FEATURE_DISPLAY_NAME1##">Note_Pad_SAH_Files</Feature>
+  </Features>
+  <Components>
+    <Component x64="32">AllOtherFiles</Component>
+    <Component x64="32">IS_ININSTALL_SHORTCUT</Component>
+    <Component x64="32" KeyPath="note_pad.exe">Note_pad.exe</Component>
+  </Components>
+  <Prerequisites />
+  <MergeModules />
+  <DynamicLinks />
+  <Files>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]SAH\Note Pad SAH" Component="Note_pad.exe" Modified="7/10/2020 9:32:52 PM" Size="369664" Version="1.0.0.0">Note pad.exe</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]SAH\Note Pad SAH" Component="AllOtherFiles" Modified="7/7/2020 10:56:47 AM" Size="189" Version="">Note pad.exe.config</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]SAH\Note Pad SAH" Component="AllOtherFiles" Modified="7/10/2020 9:32:52 PM" Size="75264" Version="">Note pad.pdb</File>
+  </Files>
+</BuildReport>
